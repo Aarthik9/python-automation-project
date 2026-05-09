@@ -1,0 +1,72 @@
+{
+  "presentation": {
+    "title": "OOPs using Python",
+    "theme": {
+      "primary_color": "1E2761",
+      "accent_color": "F96167",
+      "background_color": "FFFFFF",
+      "font_heading": "sans-serif",
+      "font_body": "sans-serif"
+    },
+    "slides": [
+      {
+        "slide_index": "01",
+        "type": "content",
+        "title": "Encapsulation",
+        "subtitle": "Data Security & Hiding",
+        "image": "output_images/Slide1.png",
+        "audio": "output_audio/slide_1.wav",
+        "blocks": [
+          {
+            "type": "bullets",
+            "position": { "x": 10, "y": 40 },
+            "style": { "font_size": 22, "color": "333333" },
+            "items": [
+              { "text": "Wrapping data and methods into a class" },
+              { "text": "Restricts direct access to data" },
+              { "text": "Improves data security" }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_index": "02",
+        "type": "content",
+        "title": "Abstraction",
+        "subtitle": "Simplifying Complexity",
+        "image": "output_images/Slide2.png",
+        "audio": "output_audio/slide_2.wav",
+        "blocks": [
+          {
+            "type": "bullets",
+            "position": { "x": 10, "y": 40 },
+            "style": { "font_size": 22, "color": "333333" },
+            "items": [
+              { "text": "Hides complex internal details" },
+              { "text": "Shows only essential features" },
+              { "text": "Example: Mobile UI vs internal circuits" }
+            ]
+          }
+        ]
+      },
+      {
+        "slide_index": "03",
+        "type": "venn",
+        "title": "OOP Concepts",
+        "labels": ["Encapsulation", "Abstraction"],
+        "values": [10, 8, 5],
+        "image": "output_images/Slide3.png",
+        "audio": "output_audio/slide_3.wav"
+      },
+      {
+        "slide_index": "04",
+        "type": "chart",
+        "title": "Concept Importance",
+        "labels": ["Encapsulation", "Abstraction", "Inheritance"],
+        "values": [80, 70, 60],
+        "image": "output_images/Slide4.png",
+        "audio": "output_audio/slide_4.wav"
+      }
+    ]
+  }
+}

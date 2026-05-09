@@ -1,0 +1,19 @@
+# Core dependencies for the AI Presentation Video Generator
+# Install all with: pip install -r requirements.txt
+
+# Text-to-Speech audio generation
+gtts>=2.5.0
+
+# Image manipulation and slide rendering
+Pillow>=10.0.0
+
+# Chart and diagram generation
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Video assembly
+moviepy>=1.0.3
+
+# Testing
+pytest>=7.4.0
+pytest-mock>=3.11.0

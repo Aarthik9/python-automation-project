@@ -1,0 +1,93 @@
+{
+  "title": "Introduction to Artificial Intelligence",
+  "author": "AI Presenter",
+  "theme": {
+    "background_color": "#1a1a2e",
+    "title_color": "#e94560",
+    "text_color": "#ffffff",
+    "accent_color": "#0f3460",
+    "font": "DejaVuSans"
+  },
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "Introduction to Artificial Intelligence",
+      "subtitle": "A Comprehensive Overview",
+      "speaker_notes": "Welcome to this presentation on Artificial Intelligence. Today we will explore the fundamentals of AI, its applications, and the impact it has on our world."
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "What is Artificial Intelligence?",
+      "content": [
+        "AI is the simulation of human intelligence by machines",
+        "Enables computers to learn, reason, and solve problems",
+        "Encompasses machine learning, deep learning, and NLP",
+        "Powers applications from search engines to autonomous vehicles"
+      ],
+      "speaker_notes": "Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think and learn. It encompasses a wide range of technologies including machine learning, deep learning, and natural language processing."
+    },
+    {
+      "id": 3,
+      "type": "diagram",
+      "title": "AI Technology Landscape",
+      "speaker_notes": "This diagram shows the breakdown of AI capabilities and their relative importance in modern applications.",
+      "diagram": {
+        "type": "bar",
+        "title": "AI Adoption by Industry (2024)",
+        "labels": ["Healthcare", "Finance", "Retail", "Manufacturing", "Education"],
+        "values": [78, 85, 72, 65, 58],
+        "xlabel": "Industry",
+        "ylabel": "Adoption Rate (%)",
+        "color": "#e94560"
+      }
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "Key AI Applications",
+      "content": [
+        "Natural Language Processing: chatbots, translation, summarisation",
+        "Computer Vision: facial recognition, medical imaging",
+        "Robotics: manufacturing automation, autonomous vehicles",
+        "Recommendation Systems: streaming, e-commerce personalisation"
+      ],
+      "speaker_notes": "AI has numerous practical applications across industries. Natural language processing powers chatbots and translation services. Computer vision enables facial recognition and medical imaging analysis. Robotics drives manufacturing automation and autonomous vehicles."
+    },
+    {
+      "id": 5,
+      "type": "diagram",
+      "title": "Machine Learning Growth Trend",
+      "speaker_notes": "The graph illustrates the exponential growth in machine learning model performance over recent years.",
+      "diagram": {
+        "type": "line",
+        "title": "ML Model Performance Over Time",
+        "labels": ["2019", "2020", "2021", "2022", "2023", "2024"],
+        "values": [62, 68, 75, 82, 90, 97],
+        "xlabel": "Year",
+        "ylabel": "Benchmark Score",
+        "color": "#0f3460"
+      }
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "Future of AI",
+      "content": [
+        "General AI capable of reasoning across domains",
+        "AI-human collaboration in creative and analytical tasks",
+        "Ethical frameworks guiding responsible AI development",
+        "Continued breakthroughs in multimodal AI systems"
+      ],
+      "speaker_notes": "The future of AI holds tremendous promise. We anticipate the development of general AI systems capable of reasoning across multiple domains. AI-human collaboration will become increasingly common in both creative and analytical work."
+    },
+    {
+      "id": 7,
+      "type": "title",
+      "title": "Thank You",
+      "subtitle": "Questions & Discussion",
+      "speaker_notes": "Thank you for your attention. We hope this presentation has given you a solid understanding of artificial intelligence and its transformative impact. We are now open for questions and discussion."
+    }
+  ]
+}
